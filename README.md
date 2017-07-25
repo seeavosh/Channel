@@ -28,7 +28,8 @@
 <br></h4>
 <h6 dir="rtl"></h6>
 <pre>
-<span>cd Channel && lua bot.lua 
+<span>cd Channel
+<span>lua bot.lua 
 </span>
 </pre>
 <hr>
