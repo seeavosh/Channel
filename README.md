@@ -30,7 +30,6 @@
 <pre>
 <span>cd Channel
 <span>lua bot.lua 
-</span>
 </pre>
 <hr>
 اموزش های بیش تر در کانال
